@@ -1,0 +1,6 @@
+WATSONX_MODEL_ID=granite-13b-instruct-v2
+WATSONX_API_KEY=your_ibm_watsonx_api_key
+WATSONX_ENDPOINT=https://us-south.ml.cloud.ibm.com
+WATSONX_PROJECT_ID=your_project_id
+PINECONE_API_KEY=your_pinecone_api_key
+PINECONE_INDEX_NAME=edututor
